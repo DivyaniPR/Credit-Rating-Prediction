@@ -10,9 +10,9 @@ Simply put, credit rating is the ability of a person to fulfil their financial c
 
 Since it is a classification problem, in this project I used K-Nearest Neighbors 
 
-Algorithm used: K-Nearest Neighbor
-Optimal K-value selection: Based on accuracy scores for various K values, k-fold cross validation
-Validation techniques: Accuracy score, confusion matrix, ROC curve, AUC score
+- Algorithm used: K-Nearest Neighbor
+- Optimal K-value selection: Based on accuracy scores for various K values, k-fold cross validation
+- Validation techniques: Accuracy score, confusion matrix, ROC curve, AUC score
 
 ### Technologies
 * Python
